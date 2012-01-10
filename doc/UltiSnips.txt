@@ -110,7 +110,7 @@ To Update an installation, simply pull the latest revision: >
 
 Using a downloaded packet:               *UltiSnips-using-a-downloaded-packet*
 
-See *UltiSnips-using-bzr* Just unpack into a directory of your choice and add
+See Just unpack into a directory of your choice and add
 the path to runtimepath.
 
 =============================================================================
